@@ -2,4 +2,4 @@ encoding: utf-8
 locale : en-EN
 highlighter: rouge
 markdown: kramdown
-theme: minimal
+theme: hacker
