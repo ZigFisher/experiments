@@ -2,7 +2,9 @@ encoding: utf-8
 locale : en-EN
 highlighter: rouge
 markdown: kramdown
-remote_theme: pages-themes/minimal
+#remote_theme: pages-themes/minimal
+remote_theme: benbalter/retlab
+
 
 
 
