@@ -1,22 +1,5 @@
-#encoding: utf-8
-highlighter: rouge
-markdown: kramdown
-theme: slate
-
-
-# Site Settings
-locale                   : "zh-CN"
-
-# Site Author
-author:
-  name             : "Igor Zalatov"
-  location         : "Crimea"
-
-# Reading Files
-include:
-  - _images
-  - _site
-  - _sources
-  - _static
-
-encoding: "utf-8"
+encoding:       "utf-8"
+locale :        "en-EN"
+highlighter:    "rouge"
+markdown:       "kramdown"
+theme:          "slate"
